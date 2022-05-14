@@ -1,3 +1,3 @@
-# helm-charts
+# Helm Charts Repository
 
-[INDEX](https://mw-projects.github.io/helm-charts/index.yaml)
+## [INDEX FILE](https://mw-projects.github.io/helm-charts/index.yaml)
