@@ -20,3 +20,5 @@ To install the `<chart-name>` chart:
 To uninstall the chart: 
 
   `helm delete my-<chart-name>`
+
+Here is the [index.yaml](https://mw-projects.github.io/helm-charts/index.yaml)
