@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  letsencrypt-cluster-issuer:
+  - apiVersion: v2
+    created: "2022-05-14T13:06:04.587918546Z"
+    digest: 77956524c7c604a40f21c95da1dc5869fc4c9718d1100c0489c6731a2fc421f4
+    name: letsencrypt-cluster-issuer
+    urls:
+    - https://github.com/mw-projects/helm-charts/releases/download/letsencrypt-cluster-issuer-0.1.0/letsencrypt-cluster-issuer-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-14T13:06:04.587934246Z"
