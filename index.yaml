@@ -22,4 +22,12 @@ entries:
     urls:
     - https://github.com/mw-projects/helm-charts/releases/download/letsencrypt-cluster-issuer-0.1.0/letsencrypt-cluster-issuer-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-22T11:52:07.385853765Z"
+  letsencrypt-do-cluster-issuer:
+  - apiVersion: v2
+    created: "2022-06-11T19:18:07.723492048Z"
+    digest: c6544734351740e48d949049c2289b9852a9699e4adf10144d5cfe35340be512
+    name: letsencrypt-do-cluster-issuer
+    urls:
+    - https://github.com/mw-projects/helm-charts/releases/download/letsencrypt-do-cluster-issuer-0.1.0/letsencrypt-do-cluster-issuer-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-11T19:18:07.723506148Z"
