@@ -32,10 +32,17 @@ entries:
     version: 0.1.0
   tls-certificate:
   - apiVersion: v2
+    created: "2022-06-12T19:36:37.501304429Z"
+    digest: 013534d1f959eda44875f98c0f2f2363c6a37e45a5da7e2b8051b529c5280fd4
+    name: tls-certificate
+    urls:
+    - https://github.com/mw-projects/helm-charts/releases/download/tls-certificate-0.1.1/tls-certificate-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     created: "2022-06-12T16:34:00.94389318Z"
     digest: 72c70945f852b920d004bed2bf9c5462f85a5d494e7a9be172204ffdc4397a86
     name: tls-certificate
     urls:
     - https://github.com/mw-projects/helm-charts/releases/download/tls-certificate-0.1.0/tls-certificate-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-12T16:34:00.94390538Z"
+generated: "2022-06-12T19:36:37.501323029Z"
